@@ -12,3 +12,8 @@ A responsive and easy to customise mega-dropdown component.
 Icons: [Nucleo Library](https://nucleoapp.com/)
 
 Diagonal movement plugin: [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)
+
+Mootools Version
+=========
+
+using the [Mootools menu-aim version](https://github.com/actuosus/MooTools-menu-aim)
